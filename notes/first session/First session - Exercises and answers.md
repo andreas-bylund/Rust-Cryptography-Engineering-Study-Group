@@ -1,13 +1,15 @@
 ## Book 
 **Ch 1 - Q 10: Describe a concrete example where improving the security of a system against one type of attack can increase the likelihood of other attacks.**
 
-**CH 2 - Q3. Consider a group of 30 people who wish to establish pair-wise secure communications using symmetric-key cryptography. How many keys need to be exchanged in total.**
+**Answer:** In the book, they mention the example of if you strengthen security by issuing new, strong and long passwords, every week the probability increases that users will write down the password at the computer. This can increase the chance that someone physically enters e.g. the office and thus gain access to the password and thus the system.
 
-**CH 2 - Q4. Suppose Bob receives a messages signed using a digital signature scheme with Alice’s secret signing key. Does it prove that Alice saw the message and chose to sign.**
+**Ch 2 - Q3. Consider a group of 30 people who wish to establish pair-wise secure communications using symmetric-key cryptography. How many keys need to be exchanged in total.**
 
-**CH 2 - Q6. Suppose a chosen-ciphertext attacker cannot recover the secret decryption key for an encryption scheme. Does this mean the encryption scheme is secure?**
+**Ch 2 - Q4. Suppose Bob receives a messages signed using a digital signature scheme with Alice’s secret signing key. Does it prove that Alice saw the message and chose to sign.**
 
-**CH 2 - Q7. Consider a symmetric-key cryptosystem in which cryptographic keys are randomly selected from the set of all n-bit strings. Approximately what should n be in order to provide 128 bits of security against a birthday attack.**
+**Ch 2 - Q6. Suppose a chosen-ciphertext attacker cannot recover the secret decryption key for an encryption scheme. Does this mean the encryption scheme is secure?**
+
+**Ch 2 - Q7. Consider a symmetric-key cryptosystem in which cryptographic keys are randomly selected from the set of all n-bit strings. Approximately what should n be in order to provide 128 bits of security against a birthday attack.**
 
 ## General
 **Q:Suppose you read about RSA encryption and wanted to find it’s standard specification. Where would you look?** 
