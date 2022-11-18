@@ -12,7 +12,9 @@
 **Ch 2 - Q7. Consider a symmetric-key cryptosystem in which cryptographic keys are randomly selected from the set of all n-bit strings. Approximately what should n be in order to provide 128 bits of security against a birthday attack.**
 
 ## General
-**Q:Suppose you read about RSA encryption and wanted to find it’s standard specification. Where would you look?** 
+**Q:Suppose you read about RSA encryption and wanted to find it’s standard specification. Where would you look?**
+
+**Answer:** Would start by reading the wikipedia page on RSA encryption and also use the reference links at the bottom of the page. Should this not be enough, I would turn to Google to find a more specific answer to my question.  
 
 **Q: Find two libraries for each of RSA, TLS/SSL, and AEAD. Evaluate the maturity each library, and skim the code. What about the library structure makes sense? How is their documentation? These links may help [https://cryptography.rs/](https://cryptography.rs/), [https://lib.rs/](https://lib.rs/) (librs is equivalent to [crates.io](http://crates.io/), with a different interface)**
 
